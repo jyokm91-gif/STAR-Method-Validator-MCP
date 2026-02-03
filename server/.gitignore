@@ -1,0 +1,22 @@
+﻿# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Raw Data (Do not commit these)
+../기업별 자기소개서 작성 전략/
+../직무별 자기소개서 작성 전략/
+**/*.docx
+**/*.pdf
+
+# Logs
+*.log
+npm-debug.log*
